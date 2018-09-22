@@ -1,0 +1,14 @@
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+Toronto, New York
+Detroit, Toronto
+San Jose, Los Angeles
+Las Vegas, Seattle
+Seattle, Portland
+Minneapolis, Des Moines
+Springfield, St. Louis
+Tampa, Miami
+Albuquerque, El Paso
+Buffalo, Toronto

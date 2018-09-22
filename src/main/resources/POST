@@ -1,0 +1,7 @@
+{
+  "amount": 10,
+  "currency": "CAD",
+  "fromAccountID": "30f862d2-75c1-4660-af4c-2e9b3cf7235b_2d8c2ae0-300c-436a-b164-f5e36374647c",
+  "receipt": "{ \"reason\": \"APP NAME GOES HERE\"}",
+  "toAccountID": "30f862d2-75c1-4660-af4c-2e9b3cf7235b_1894a538-7776-41ca-88b6-ffea5d2d50cf"
+}
